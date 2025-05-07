@@ -1,4 +1,3 @@
-// EDIT THIS FILE TO COMPLETE ASSIGNMENT QUESTION 1'
 //initializing variables
 var ctr = 1;
 var time1 = Date.now() // getting current unix timestamp
